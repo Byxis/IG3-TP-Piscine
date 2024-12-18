@@ -39,8 +39,11 @@ cd TP_Packages
 swift package init -- type executable
 ```
 
-2. 
-3. Le projet compile et run : je reçois bien le message de bienvenue.
+2. Structure du projet :
+- Package.swift : fichier de configuration ;
+- Sources/ : code source ;
+- Tests/ : tests unitaires
+4. Le projet compile et run : je reçois bien le message de bienvenue.
 
 ### Étape 2 : Ajout d’un package tiers
 
