@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "type": "lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:TP_Packages}",
+            "name": "Debug TP_Packages",
+            "program": "${workspaceFolder:TP_Packages}/.build/debug/TP_Packages",
+            "preLaunchTask": "swift: Build Debug TP_Packages"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:TP_Packages}",
+            "name": "Release TP_Packages",
+            "program": "${workspaceFolder:TP_Packages}/.build/release/TP_Packages",
+            "preLaunchTask": "swift: Build Release TP_Packages"
+        }
+    ]
+}
