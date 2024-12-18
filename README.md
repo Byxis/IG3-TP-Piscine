@@ -12,12 +12,12 @@ Ce TP a pour but :
 - [Prérequis](#prérequis)
 
 - [Questions / Réponses](#questions--réponses)
-  - [Etape 1](#etape-1)
-  - [Etape 2](#etape-2)
-  - [Etape 3](#etape-3)
-  - [Etape 4](#etape-4)
-  - [Etape 5](#etape-5)
-  - [Etape 6](#etape-6)
+  - [Étape 1 : Initialisation d’un projet Swift](#étape-1--initialisation-dun-projet-swift)
+  - [Étape 2 : Ajout d’un package tiers](#étape-2--ajout-dun-package-tiers)
+  - [Étape 3 : Création d’un package local](#étape-3--création-dun-package-local)
+  - [Étape 4 : Questions](#étape-4--questions)
+  - [Étape 5 : Exercice supplémentaire](#étape-5--exercice-supplémentaire)
+  - [Étape 6 : Package Pile](#étape-6--package-pile)
 
 - [Auteur](#auteur)
 
@@ -307,5 +307,5 @@ Un nombre aléatoire : 77
 Projet réalisé le 18 décembre 2024 pour un projet Polytech, sur la Programmation Algorithmique en Swift
 
 
-- [Alexis Serrano](https://gitlab.polytech.umontpellier.fr/alexis.serrano)
+- [Byxis](https://github.com/Byxis)
 
